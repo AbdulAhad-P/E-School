@@ -1,0 +1,118 @@
+body{
+    
+}
+.container{
+  max-width: 1140px;
+    
+ }
+ .navbar{
+    margin: 0 ;
+    padding: 0;
+ }
+ .logo{
+    width: 198.07px;
+height: 59px;
+
+
+
+ }
+ .uper{
+    background-color: #F0FFF0;
+    height: 500px;
+} 
+.transparent{
+    background-color: #F0FFF0;
+   
+}
+.top-img{
+    width: 554px;
+    height: 346px;
+}
+.question{
+    padding-top: 20px;
+    color: #FD511A;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+}
+.font{
+   font-weight: 700;
+   font-size: 48px;
+   font-style: poppins;
+  
+}
+.text{
+    color: #6C6B6B;
+    padding-top: 10px;
+}
+.color{
+    color: #21B573;
+}
+.start{
+    border: none;
+    width: 153px;
+    height: 43px;
+    color: white;
+    background-color: #21B573;
+    padding: 12px, 36px, 12px, 36px;
+    border-radius: 33px;
+}
+.card{
+    height: 270px;
+    width: 270px;
+    border: none;
+    box-shadow: 10px 10px 40px grey;
+    border-radius: 10px;
+    background-color: #F8FFFB;
+}
+.card-box{
+    padding-top: 40px;
+}
+.letter{
+    width: 75px;
+    height: 80px;
+}
+.book{
+    width: 66px;
+    height: 85px;
+}
+.topic{
+    font-size: 30px;
+   color: #413960;
+   padding-top: 20px;
+}
+.courses{
+    padding-top: 40px;
+}
+.courses-card{
+    width: 370px;
+    height: 483px;
+   border: 2px solid whitesmoke;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 18px;
+}
+.pyschology{
+    width: 350px;
+    height: 234px;
+    border-radius: 11px;
+    padding-top: 8px;
+}
+.pyschology-card{
+    margin: 8px;
+    
+}
+.card-text{
+   
+    padding-top: 15px;
+}
+.icon{
+    width: 24px;
+    height: 24px;
+}
+.left{
+    display: flex;
+}
+.card-footer{
+    padding-top: 35px;
+}
+
